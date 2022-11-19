@@ -1,0 +1,4 @@
+﻿  frame.cpp
+C:\Users\db_son\Desktop\Proj22 (6)\Proj22\frame.cpp(96,48): warning C4302: '형식 캐스트': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\db_son\Desktop\Proj22 (6)\Proj22\frame.cpp(51): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Proj22.vcxproj -> C:\Users\db_son\Desktop\Proj22 (6)\x64\Debug\Proj22.exe
